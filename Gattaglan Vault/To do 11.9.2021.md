@@ -1,0 +1,21 @@
+# Tuesday, November 9th 2021
+---
+To do:
+- [ ] Read more on *Man's Search for Meaning*
+- [ ] Study *7 Habits*
+- [ ] Draw
+- [ ] Work
+	- [ ] Java Course
+	- [ ] Scrum Study
+	- [ ] C# Course
+	- [ ] Study for Panel
+	- [ ] Scrum
+- [ ] Training Plan
+- [x] Budget plan
+- [ ] Consolidate Savings
+- [x] Return Dresser Runners
+- [x] Send out Laptop
+	- [x] Pack and tape
+- [x] Find or Buy packing Tape
+- [x] Make a note for TV repair questions
+- [x] Go to TV repair shop and investigate how much it'd cost for a repair.

@@ -1,0 +1,4 @@
+# Ideas for apps to find/make
+---
+- [ ] **Quest to do app.** An app that allows you to make "quests" for yourself. Based after the way videgames track your missions, you can create entries that persist until completed and then are archived. You can report on each quest the progress and notes upon completion or continuation into other quests. Also consider a feature to add photos and pictures to  help clarify quest details.
+- [ ] **Writing app** that uses your visual aid in structuring writing ideas. Characters persist even when they're not on screen and should be mindfully tracked when away from the screen. Also a timeline of tracking the audience view in important. Work out how places and events coincide with character posistions and develop the app.

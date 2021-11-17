@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "cfbbf16800660b2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "02eeef9a82f8bab9",
+        "type": "leaf",
+        "dimension": 50.24999999999999,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Art list.md",
+            "mode": "source"
+          }
+        },
+        "group": "a8e48cdca737d3e8"
+      },
+      {
+        "id": "309b2b2d235d639d",
+        "type": "leaf",
+        "dimension": 49.75,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Art list.md",
+            "mode": "preview"
+          }
+        },
+        "group": "a8e48cdca737d3e8"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05629a0a582ec3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2070be1b14e066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b8c66ed454999a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4c5f5630cf22555",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "c976373089420366",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f85ba2fd9c02ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5f60e599a940d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Art list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "309b2b2d235d639d",
+  "lastOpenFiles": [
+    "Art list.md",
+    "To Do 11.12.2021.md",
+    "To do 11.11.2021.md",
+    "To Do 11.10.2021.md",
+    "To do 11.9.2021.md",
+    "Game idea list.md",
+    "App idea list.md",
+    "To do 11-8-2021.md",
+    "To do 11-3-2021.md",
+    "To do 11-2-2021.md"
+  ]
+}
