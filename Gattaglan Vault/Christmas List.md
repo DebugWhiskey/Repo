@@ -1,0 +1,18 @@
+# Christmas List
+---
+- [ ] Sophia: ($10)
+- [ ] Ben ($10)
+- [ ] Lucy ($10)
+- [ ] Sam ($10)
+- [ ] Roberto! ($10)
+- [ ] John William and Claire ($20) 
+	- [ ] Taco vs Burrito?
+- [ ] Dad and Geisa ($10)
+- [ ] Leea ($5)
+- [ ] Chuck ($5)
+- [ ] Mimi ($5)
+- [ ] Mitchell ($5)
+- [ ] Cleane ($5)
+- [ ] Grandma ($5)
+- [ ] Bonnie ($5)
+- [ ] Total ($115) Expect ($120-$150)

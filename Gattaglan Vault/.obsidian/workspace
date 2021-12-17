@@ -6,11 +6,11 @@
       {
         "id": "02eeef9a82f8bab9",
         "type": "leaf",
-        "dimension": 50.24999999999999,
+        "dimension": 47.97077922077922,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Art list.md",
+            "file": "Christmas List.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "309b2b2d235d639d",
         "type": "leaf",
-        "dimension": 49.75,
+        "dimension": 52.029220779220765,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Art list.md",
+            "file": "Christmas List.md",
             "mode": "preview"
           }
         },
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 244
   },
   "right": {
     "id": "c976373089420366",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art list.md",
+                "file": "Christmas List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "309b2b2d235d639d",
+  "active": "02eeef9a82f8bab9",
   "lastOpenFiles": [
+    "Christmas List.md",
     "Art list.md",
+    "Game idea list.md",
+    "Game Character Checklist.md",
+    "Emotional Home.md",
     "To Do 11.12.2021.md",
     "To do 11.11.2021.md",
     "To Do 11.10.2021.md",
     "To do 11.9.2021.md",
-    "Game idea list.md",
-    "App idea list.md",
-    "To do 11-8-2021.md",
-    "To do 11-3-2021.md",
-    "To do 11-2-2021.md"
+    "App idea list.md"
   ]
 }
