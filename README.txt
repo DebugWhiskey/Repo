@@ -1,3 +1,1 @@
-CHILIDOGS!
-
-First readme file for REPO
+My art and Stuff are here. Don't look!
